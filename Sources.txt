@@ -1,0 +1,3 @@
+NLP pipeline :
+https://larevueia.fr/nlp-avec-python-analyse-de-sentiments-sur-twitter/
+https://www.kaggle.com/code/fedi1996/french-sentiment-analysis-using-textblob/notebook
