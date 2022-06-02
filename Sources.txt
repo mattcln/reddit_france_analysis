@@ -1,3 +1,7 @@
 NLP pipeline :
 https://larevueia.fr/nlp-avec-python-analyse-de-sentiments-sur-twitter/
 https://www.kaggle.com/code/fedi1996/french-sentiment-analysis-using-textblob/notebook
+
+
+Polls :
+https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022
