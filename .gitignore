@@ -10,3 +10,4 @@ transformation/exports/france/france_posts_merged.csv
 transformation/exports/france/france_comments_merged.csv
 transformation/exports/france/france_comments_merged.parquet
 transformation/exports/france/france_posts_merged.parquet
+transformation/reddit_analysis.db
