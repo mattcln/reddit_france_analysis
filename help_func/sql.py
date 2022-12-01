@@ -33,3 +33,11 @@ def insert_df_table(path_db:str, table_name:str, df:pd.DataFrame):
     engine = create_engine(path_db)
     df.to_sql(table_name, con=engine, if_exists='append')
     return engine
+
+def execute_query(engine, query:str) -> list():
+    connection = engine.connect()
+    result = connection.execute(query)
+    rows = []
+    for row in result:
+        rows.append(row)
+    return rows
